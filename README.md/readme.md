@@ -13,6 +13,5 @@
 <img src="Gerador-de-Conselho.gif/">
 
 <a href="https://uandersonlim.github.io/Projetct-Advice-Generator/" style="display: flex; justify-content: center; margin-top: 10px; text-decoration: none">
-<button style="border: solid #52FFA8; background-color: #52FFA8">Navegue até lá</button>
-</a>
+<img src="./Anotação 2023-08-29 211311.png">
 </div>
